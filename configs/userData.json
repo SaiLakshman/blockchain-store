@@ -1,0 +1,94 @@
+{
+    "users": [
+        {
+            "name": "Prakash",
+            "username": "pk.ammu",
+            "email": "user1@gmail.com",
+            "role": "Client",
+            "password": "sunanda",
+            "password2": "sunanda"
+        },
+        {
+            "name": "Prakash",
+            "username": "pk.ammu",
+            "email": "user2@gmail.com",
+            "role": "Client",
+            "password": "sunanda",
+            "password2": "sunanda"
+        },
+        {
+            "name": "Prakash",
+            "username": "pk.ammu",
+            "email": "user3@gmail.com",
+            "role": "Client",
+            "password": "sunanda",
+            "password2": "sunanda"
+        },
+        {
+            "name": "Prakash",
+            "username": "pk.ammu",
+            "email": "user4@gmail.com",
+            "role": "Client",
+            "password": "sunanda",
+            "password2": "sunanda"
+        },
+        {
+            "name": "Prakash",
+            "username": "pk.ammu",
+            "email": "user5@gmail.com",
+            "role": "Client",
+            "password": "sunanda",
+            "password2": "sunanda"
+        },
+        {
+            "name": "Prakash",
+            "username": "pk.ammu",
+            "email": "user6@gmail.com",
+            "role": "Client",
+            "password": "sunanda",
+            "password2": "sunanda"
+        },
+        {
+            "name": "Prakash",
+            "username": "pk.ammu",
+            "email": "user7@gmail.com",
+            "role": "Client",
+            "password": "sunanda",
+            "password2": "sunanda"
+        },
+        {
+            "name": "Prakash",
+            "username": "pk.ammu",
+            "email": "user8@gmail.com",
+            "role": "Client",
+            "password": "sunanda",
+            "password2": "sunanda"
+        },
+        {
+            "name": "Prakash",
+            "username": "pk.ammu",
+            "email": "user9@gmail.com",
+            "role": "Client",
+            "password": "sunanda",
+            "password2": "sunanda"
+        },
+        {
+            "name": "Prakash",
+            "username": "pk.ammu",
+            "email": "user10@gmail.com",
+            "role": "Client",
+            "password": "sunanda",
+            "password2": "sunanda"
+        }
+    ],
+    "servers": [
+        {
+            "name": "Server",
+            "username": "userver1",
+            "email": "server@gmail.com",
+            "role": "Server",
+            "password": "sunanda",
+            "password2": "sunanda"
+        }
+    ]
+}
